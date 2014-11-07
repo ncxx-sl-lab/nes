@@ -1,0 +1,4 @@
+../wrk/nes/tgi/nes-64-56-2.o:	nes/tgi/nes-64-56-2.s Z:/share/games/NES/cc65/cc65-master/asminc/zeropage.inc Z:/share/games/NES/cc65/cc65-master/asminc/tgi-kernel.inc Z:/share/games/NES/cc65/cc65-master/asminc/tgi-error.inc Z:/share/games/NES/cc65/cc65-master/asminc/nes.inc Z:/share/games/NES/cc65/cc65-master/asminc/get_tv.inc Z:/share/games/NES/cc65/cc65-master/asminc/generic.mac nes/tgi/../../tgi/tgidrv_line.inc
+
+nes/tgi/nes-64-56-2.s Z:/share/games/NES/cc65/cc65-master/asminc/zeropage.inc Z:/share/games/NES/cc65/cc65-master/asminc/tgi-kernel.inc Z:/share/games/NES/cc65/cc65-master/asminc/tgi-error.inc Z:/share/games/NES/cc65/cc65-master/asminc/nes.inc Z:/share/games/NES/cc65/cc65-master/asminc/get_tv.inc Z:/share/games/NES/cc65/cc65-master/asminc/generic.mac nes/tgi/../../tgi/tgidrv_line.inc:
+
