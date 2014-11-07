@@ -1,0 +1,4 @@
+../wrk/c16/kbhit.o:	c16/kbhit.s Z:/share/games/NES/cc65/cc65-master/asminc/plus4.inc
+
+c16/kbhit.s Z:/share/games/NES/cc65/cc65-master/asminc/plus4.inc:
+

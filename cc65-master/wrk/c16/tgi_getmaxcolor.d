@@ -1,0 +1,4 @@
+../wrk/c16/tgi_getmaxcolor.o:	tgi/tgi_getmaxcolor.s Z:/share/games/NES/cc65/cc65-master/asminc/tgi-kernel.inc
+
+tgi/tgi_getmaxcolor.s Z:/share/games/NES/cc65/cc65-master/asminc/tgi-kernel.inc:
+
