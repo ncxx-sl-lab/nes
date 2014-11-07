@@ -1,0 +1,4 @@
+../wrk/lynx/tgi_getcolorcount.o:	tgi/tgi_getcolorcount.s Z:/share/games/NES/cc65/cc65-master/asminc/tgi-kernel.inc
+
+tgi/tgi_getcolorcount.s Z:/share/games/NES/cc65/cc65-master/asminc/tgi-kernel.inc:
+
