@@ -1,0 +1,4 @@
+../wrk/supervision/staxsp.o:	runtime/staxsp.s
+
+runtime/staxsp.s:
+
