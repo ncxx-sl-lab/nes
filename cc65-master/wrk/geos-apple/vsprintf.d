@@ -1,0 +1,4 @@
+../wrk/geos-apple/vsprintf.o:	common/vsprintf.s
+
+common/vsprintf.s:
+
