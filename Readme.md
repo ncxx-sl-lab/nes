@@ -1,8 +1,8 @@
 
 cc65-master
- bin - ƒRƒ“ƒpƒCƒ‰,ƒŠƒ“ƒJ“™
+ bin - ã‚³ãƒ³ãƒ‘ã‚¤ãƒ©,ãƒªãƒ³ã‚«ç­‰
  lib - nes.lib
- include - ƒwƒbƒ_
+ include - ãƒ˜ãƒƒãƒ€
 
 
 gnu
