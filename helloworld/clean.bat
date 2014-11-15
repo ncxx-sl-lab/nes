@@ -1,2 +1,2 @@
 set PATH=..\gnu\bin
-make clean
+make win_clean
