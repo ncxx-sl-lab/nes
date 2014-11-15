@@ -24,7 +24,12 @@ $(TARGET):$(OBJS)
 .asm.o:
 	$(CA) -t nes $<
 
-clean:
+win_clean:
 	del *.o
 	del main.s
 	del $(TARGET)
+
+clean:
+	rm *.o
+	rm main.s
+	rm $(TARGET)
