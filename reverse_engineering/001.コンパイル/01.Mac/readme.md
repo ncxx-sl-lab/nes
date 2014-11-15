@@ -13,3 +13,9 @@ $ make
 
 「helloworld.nes」が作成されていること。
 
+
+```
+$ git clone https://<ユーザ名>:<パスワード>@github.com/<ユーザ名>/nes.gif
+```
+これでpushするたびにパスワード聞かれなくて楽になるようです。  
+そのかわり平文です。
