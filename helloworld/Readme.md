@@ -1,8 +1,9 @@
 
-hallo world ƒTƒ“ƒvƒ‹‚ðì‚Á‚Ä‚Ý‚Ü‚µ‚½B
+hallo world ã‚µãƒ³ãƒ—ãƒ«ã‚’ä½œã£ã¦ã¿ã¾ã—ãŸã€‚
 
-nes”z‰º‚ðƒNƒ[ƒ“‚µ‚ÄAmk.batƒNƒŠƒbƒN‚·‚é‚Æ
-ƒoƒCƒiƒŠ‚ªo—ˆ‚é‚ÆŽv‚¢‚Ü‚·B
-halloworld.nes‚ðƒGƒ~ƒ…ƒŒ[ƒ^‚ÅŽÀsŠm”F‚³‚ê‚é‚Æ
-uhallo world!v‚ªo—Í‚³‚ê‚é‚ÆŽv‚¢‚Ü‚·B
+nesé…ä¸‹ã‚’ã‚¯ãƒ­ãƒ¼ãƒ³ã—ã¦ã€mk.batã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã¨
+ãƒã‚¤ãƒŠãƒªãŒå‡ºæ¥ã‚‹ã¨æ€ã„ã¾ã™ã€‚
+halloworld.nesã‚’ã‚¨ãƒŸãƒ¥ãƒ¬ãƒ¼ã‚¿ã§å®Ÿè¡Œç¢ºèªã•ã‚Œã‚‹ã¨
+ã€Œhallo world!ã€ãŒå‡ºåŠ›ã•ã‚Œã‚‹ã¨æ€ã„ã¾ã™ã€‚
 
+![hello world!](å‚è€ƒç”»åƒ.png)
