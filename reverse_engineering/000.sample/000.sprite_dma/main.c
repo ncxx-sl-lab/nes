@@ -33,7 +33,7 @@ void SetScroll(unsigned char x, unsigned char y)
 	*(char*)0x2005 = y;
 }
 
-static sprite spr[2];
+static struct sprite spr[2];
 
 /******************************************************************************/
 /* main                                                                       */
@@ -41,14 +41,14 @@ static sprite spr[2];
 uint8_t main(void)
 {
 
-	const char palettes[] = {
-		0x0f, 0x00, 0x10, 0x20,
-		0x0f, 0x06, 0x16, 0x26,
-		0x0f, 0x08, 0x18, 0x28,
-		0x09, 0x0a, 0x0b, 0x0c
-	};
-	const char string[] = "hello world!";
-	char i;
+//	const char palettes[] = {
+//		0x0f, 0x00, 0x10, 0x20,
+//		0x0f, 0x06, 0x16, 0x26,
+//		0x0f, 0x08, 0x18, 0x28,
+//		0x09, 0x0a, 0x0b, 0x0c
+//	};
+//	const char string[] = "hello world!";
+//	char i;
 
 	ShowScreen(0);
 
