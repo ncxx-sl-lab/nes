@@ -60,4 +60,3 @@
 ; パターンテーブル
 .segment "CHARS"
 	.incbin "character.chr"
-	.incbin	"sprite.chr"
