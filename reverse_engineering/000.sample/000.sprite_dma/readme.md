@@ -1,4 +1,6 @@
 
+![hello sprite dma!](無題.png)
+
 ```
 L809e:	8d7907	sta	$779
 29e7	and	#$e7
